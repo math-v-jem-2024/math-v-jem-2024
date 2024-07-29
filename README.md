@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Salve, Salve</h1>
 
-<!--
-**math-v-jem-2024/math-v-jem-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">SOBRE MIM</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Meu nome prefiro não revelar nesse perfil público pois eu prefiro guardar minha identidade. criei esse perfil aqui apenas para a continuação de meu curso e é só isso que você precisa saber</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/zqzxOu6FZk0AAAAM/hey-cat.gif"  />
+</div>
+
+###
+
+<p align="left">gatos são legais</p>
+
+###
+
+<h2 align="left">Habilidades</h2>
+
+###
+
+<p align="left">Tenho habilidades mas não acho necessário comentar.</p>
+
+###
